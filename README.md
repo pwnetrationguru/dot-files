@@ -6,3 +6,5 @@ set password #should fire mysql
 
 
 SET password #so should that
+
+SET PASSWORD
