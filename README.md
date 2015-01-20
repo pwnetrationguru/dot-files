@@ -1,11 +1,11 @@
 # dot-files
 
-this is not my password f
+this is not my password ffasdf
 
-set password #should fire mysql aaa
+set password #should fire mysql aaaasdfasdf
 
 
-SET password #so should that 123123
+SET password #so should that 123123asdfasdfa
 
-SET PASSWORD fff
+SET PASSWORD fffasdfasdfasdf
 fff
